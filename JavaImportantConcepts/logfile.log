@@ -1,0 +1,8 @@
+2023-08-12 19:51:46,505 INFO  [XmlConfiguratorExample] This is Info Message 
+2023-08-12 19:51:46,506 WARN  [XmlConfiguratorExample] This is Warn Message 
+2023-08-12 19:51:46,506 ERROR [XmlConfiguratorExample] This is Error Message 
+2023-08-12 19:51:46,506 FATAL [XmlConfiguratorExample] This is Fatal Message 
+2023-08-12 19:58:19,726 INFO  [XmlConfiguratorExample] This is Info Message 
+2023-08-12 19:58:19,727 WARN  [XmlConfiguratorExample] This is Warn Message 
+2023-08-12 19:58:19,727 ERROR [XmlConfiguratorExample] This is Error Message 
+2023-08-12 19:58:19,727 FATAL [XmlConfiguratorExample] This is Fatal Message 
